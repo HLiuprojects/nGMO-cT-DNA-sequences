@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.gitattributes
+!*/
+!*.fa
+!*.fasta
+!*.fna
+!*.fa.gz
+!*.fasta.gz
+!*.gz
