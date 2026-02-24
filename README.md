@@ -46,7 +46,7 @@ The dataset was generated using a standardized bioinformatic pipeline:
 
 All sequences are provided in FASTA format.
 
-Early Naming Convention
+## Early Naming Convention
 [SRR_ID]_[1/2/blank]_[list]
 
 Explanation:
@@ -55,7 +55,7 @@ _1 or _2 indicates paired-end reads
 
 Blank indicates single-end sequencing data
 
-Later Naming Convention
+## Later Naming Convention
 [SpeciesName]_[SRR_ID]_[1/2/blank]
 
 This updated rule was introduced during later stages of the project to improve species traceability.
