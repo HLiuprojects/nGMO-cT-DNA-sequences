@@ -1,7 +1,7 @@
 ## ngmos T-DNA Homologous Sequence Dataset
 ## Project Overview
 
-This dataset contains T-DNA homologous sequences identified from 2,649 naturally genetically modified organisms (ngmos) through systematic mining of publicly available sequencing repositories. The data were obtained by screening Sequence Read Archive (SRA) and Whole Genome Shotgun (WGS) datasets and recovering candidate cT-DNA fragments via assembly and validation pipelines.
+This dataset contains T-DNA homologous sequences identified from 2,614 naturally genetically modified organisms (ngmos) through systematic mining of publicly available sequencing repositories. The data were obtained by screening Sequence Read Archive (SRA) and Whole Genome Shotgun (WGS) datasets and recovering candidate cT-DNA fragments via assembly and validation pipelines.
 
 These sequence resources can support:
 
@@ -62,5 +62,5 @@ This updated rule was introduced during later stages of the project to improve s
 
 Notes
 
-- Because the dataset was generated over an extended period, both naming systems coexist. However, all identifiers retain clear links to their original sequencing runs.
-- This dataset does not imply that only 2,649 ngmos exist among Embryophytes. As new sequencing data continue to be released, additional ngmos may be discovered in future analyses.
+- Because the dataset was generated over an extended period, both naming systems coexist. However, all identifiers retain clear links to their original SRR accession number.
+- This dataset does not imply that only 2,614 ngmos exist among Embryophytes. As new sequencing data continue to be released, additional ngmos may be discovered in future analyses.
